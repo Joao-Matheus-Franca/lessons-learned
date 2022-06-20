@@ -9,7 +9,7 @@ body {
     position: relative;
     top: 50px;
 }
-#licoes_aprendidas {
+#licoes_aprendidas, #licoes_a_aprender {
     position: relative;
     top: 30px;
 }
