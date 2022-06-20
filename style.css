@@ -13,3 +13,19 @@ body {
     position: relative;
     top: 30px;
 }
+article {
+    position: relative;
+    left: 210px;
+    bottom: 575px;
+    width: 300px;
+}
+aside {
+    position: absolute;
+    right: 650px;
+    top: 75px;
+    width: 200px;
+}
+footer {
+    position: relative;
+    bottom: 0px;
+}
