@@ -2,7 +2,6 @@ body {
     background-color: rgb(253, 251, 251);
     text-align: center;
     font-family: 'Kdam Thmor Pro', sans-serif;
-    font-size: 1em;
 }
 #cabecalho {
     position: fixed;
@@ -11,11 +10,16 @@ body {
     text-align: center;
     background-color: rgb(42, 157, 143);
     width: 100%;
+    line-height: normal;
+    border: 0px;
+    margin: auto;
+    padding: auto;
 }
 #minha_foto {
     position: relative;
     top: 125px;
     border-radius: 50%;
+    border: 5px solid rgb(233, 196, 106);
     z-index: 1;
 }
 #licoes_aprendidas {
