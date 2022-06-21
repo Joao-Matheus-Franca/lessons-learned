@@ -23,10 +23,9 @@ body {
     z-index: 1;
 }
 #licoes_aprendidas {
-   
     position: absolute;
     top: 400px;
-    left: 0px;
+    left: 650px;
     display: inline-block;
     border: 5px solid red;
     text-align: left;
@@ -34,7 +33,7 @@ body {
 #licoes_a_aprender {
     position: absolute;
     top: 400px;
-    left: 200px;
+    left: 385px;
     display: inline-block;
     border: 5px solid red;
     text-align: left;
@@ -70,4 +69,10 @@ footer {
     background-color: rgb(42, 157, 143);
     width: 100%;
     font-size: 20px;
+}
+#tabela {
+    position:absolute;
+    top: 500px;
+    right: 380px;
+    border: 2px solid black;
 }
