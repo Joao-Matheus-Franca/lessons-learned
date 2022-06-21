@@ -1,31 +1,69 @@
 body {
     background-color: rgb(253, 251, 251);
+    text-align: center;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-size: 1em;
 }
 #cabecalho {
     position: fixed;
     top: 0px;
+    left: 0px;
+    text-align: center;
+    background-color: rgb(42, 157, 143);
+    width: 100%;
 }
 #minha_foto {
     position: relative;
-    top: 50px;
+    top: 125px;
+    border-radius: 50%;
+    z-index: 1;
 }
-#licoes_aprendidas, #licoes_a_aprender {
-    position: relative;
-    top: 30px;
+#licoes_aprendidas {
+   
+    position: absolute;
+    top: 400px;
+    left: 0px;
+    display: inline-block;
+    border: 5px solid red;
+    text-align: left;
+}
+#licoes_a_aprender {
+    position: absolute;
+    top: 400px;
+    left: 200px;
+    display: inline-block;
+    border: 5px solid red;
+    text-align: left;
 }
 article {
-    position: relative;
-    left: 210px;
-    bottom: 575px;
-    width: 300px;
+    color: white;
+    position: absolute;
+    left: 25%;
+    top: 100px;
+    width: 250px;
+    text-align: left;
+    border: 5px solid rgb(233, 196, 106);
+    padding-right: 500px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5%;
+    background-color: rgb(38, 70, 83);
 }
 aside {
+    color: white;
     position: absolute;
-    right: 650px;
-    top: 75px;
-    width: 200px;
+    right: 400px;
+    top: 140px;
+    width: 250px;
+    text-align: right;
 }
 footer {
-    position: relative;
+    position: absolute;
     bottom: 0px;
+    left: 0px;
+    text-align: center;
+    background-color: rgb(42, 157, 143);
+    width: 100%;
+    font-size: 20px;
 }
