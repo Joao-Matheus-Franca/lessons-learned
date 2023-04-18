@@ -7,3 +7,5 @@
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height=40 alt="Github icon"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=40 alt="HTML icon"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=40 alt="CSS icon"/>
+## 🧠 Desafios e aprendizados:
+* Dar os primeiros passos no desenvolvimento Web vivenciando novas ferramentas e tecnologias como: </br> Visual Studio Code, Bash, Git, GitHub, HTML e CSS
