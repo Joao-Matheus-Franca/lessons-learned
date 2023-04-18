@@ -9,3 +9,8 @@
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=40 alt="CSS icon"/>
 ## 🧠 Desafios e aprendizados:
 * Dar os primeiros passos no desenvolvimento Web vivenciando novas ferramentas e tecnologias como: </br> Visual Studio Code, Bash, Git, GitHub, HTML e CSS
+## 👨‍💻 Como executar: 
+⚠️ Recomenda-se o download e utilização do Visual Studio Code com a extensão Live Server ⚠️
+1. Realizar o clone do repositório: ``` git clone git@github.com:Joao-Matheus-Franca/lessons-learned.git ```
+2. Entrar no diretório do repositório recém clonado: ``` cd lessons-learned ``` 
+3. Abrir o arquivo ``` index.html ``` através da extensão Live Server do Visual Studio Code
