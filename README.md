@@ -3,14 +3,14 @@
 * Projeto individual realizado no bloco de Fundamentos do curso de desenvolvimento Web da
 <a href="https://www.betrybe.com/">Trybe</a>
 ## 🎯 Objetivos: 
-* Aplicar o versionamento de códigos com o uso dos princípios do Git e GitHub 
-* Construir uma página Web através dos fundamentos do HTML e CSS
+* Construir um portfolio através dos fundamentos do HTML e CSS
 ## 🖥️ Tecnologias:
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40 alt="Git icon"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height=40 alt="Github icon"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=40 alt="HTML icon"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=40 alt="CSS icon"/>
 ## 🧠 Desafios e aprendizados:
+* Aplicar o versionamento de códigos com o uso dos princípios do Git e GitHub 
 * Dar os primeiros passos no desenvolvimento Web vivenciando novas ferramentas e tecnologias como: </br> Visual Studio Code, Bash, Git, GitHub, HTML e CSS
 ## 👨‍💻 Como executar: 
 ⚠️ Recomenda-se o download e utilização do Visual Studio Code com a extensão Live Server ⚠️
